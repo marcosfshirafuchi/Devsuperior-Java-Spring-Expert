@@ -1,0 +1,20 @@
+Adicione manualmente
+
+Baixe os jars (JUnit 5):
+
+junit-jupiter-api
+
+junit-jupiter-engine
+
+apiguardian-api
+
+opentest4j
+
+Vá em:
+
+File > Project Structure > Libraries > +
+
+
+Adicione os .jar
+
+Confirme e tente rodar novamente
