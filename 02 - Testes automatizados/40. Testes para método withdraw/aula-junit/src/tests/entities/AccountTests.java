@@ -73,7 +73,7 @@ public class AccountTests {
 
     @Test
     public void withdrawShouldThrowExceptionWhenInsufficientBalance(){
-        
+
         //●	Assert: declare o que deveria acontecer (resultado esperado)
         Assertions.assertThrows(IllegalArgumentException.class, ()->{
             //Padrão AAA
