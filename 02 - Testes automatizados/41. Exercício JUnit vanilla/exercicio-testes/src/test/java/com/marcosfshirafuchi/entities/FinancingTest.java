@@ -184,7 +184,7 @@ class FinancingTest {
 
         //●	Act: execute as ações necessárias
         double resultOfTheQuota = fin.quota();
-        
+
         //●	Assert: declare o que deveria acontecer (resultado esperado)
         Assertions.assertEquals(1000.0, resultOfTheQuota);
     }
